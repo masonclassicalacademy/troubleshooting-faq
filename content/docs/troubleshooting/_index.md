@@ -2,9 +2,9 @@
 title: Folder
 type: docs
 prev: docs/first-page
-next: docs/folder/leaf
+next: docs/troubleshooting/printers
 sidebar:
   open: true
 ---
 
-Pages can be organized into folders.
+This is the main page for troubleshooting.
