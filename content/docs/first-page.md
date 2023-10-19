@@ -1,5 +1,5 @@
 ---
-title: How To Use This Site:  Organize Files
+title: Organize Files
 weight: 1
 prev: /docs/guide
 ---
