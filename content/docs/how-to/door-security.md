@@ -11,8 +11,7 @@ To provide someone with access to our facilities who currently does not have any
 Go to the following IP address and login with the information provided:
 [10.10.10.20](http://10.10.10.20/)
 
-**Username:** admin<br />
-**Password:** Mason2022
+Find login information in the [IT Manual](https://docs.google.com/document/d/1FTnrAtKRgohreLQcMQWQcB9kovXHajtX/edit)
 
 ## Granting access - adding a new user
 

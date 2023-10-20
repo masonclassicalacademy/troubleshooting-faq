@@ -20,13 +20,6 @@ The AC Adapter and the backup power supply sits behind the front lobby desk dire
  ### Validate Panel
  It might be good to validate the panel if the first step doesn't work. The panel for the doors is located in the southeast server room on floor 1. When you walk in the door, it is the panel that is enclosed between the two servers, directly against the wall. It has the motherboard, and the internet connection and cables are seated into the motherboard within the panel.
 
-
-
-
-
-
-
-
-
+## Resetting
 
 Simply unplugging and waiting 10-15 seconds and plugging back in might fix some issues related to connectivity, and will attempt to reset the doors system. It is a good first idea to troubleshooting basic issues. Then going to the panel in the workroom
