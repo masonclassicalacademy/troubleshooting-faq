@@ -24,8 +24,8 @@ menu:
     - name: About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/masonclassicalacademy"
+    - name: Contacts ↗
+      pageRef: /contacts
       weight: 3
     - name: Search
       weight: 4
