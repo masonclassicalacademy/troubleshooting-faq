@@ -1,5 +1,5 @@
 ---
-title: Organize Files
+title: File Structure
 weight: 1
 prev: /docs/guide
 ---

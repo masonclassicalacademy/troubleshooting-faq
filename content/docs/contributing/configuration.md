@@ -1,6 +1,10 @@
 ---
-title: Configuration
-weight: 2
+title: Basic Configuration
+type: docs
+prev: docs/first-page
+next: docs/troubleshooting/
+sidebar:
+  open: true
 ---
 
 Hugo reads its configuration from `hugo.yaml` in the root of your Hugo site.
@@ -33,7 +37,7 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra"
+      url: "https://github.com/masonclassicalacademy/"
       params:
         icon: github
 ```

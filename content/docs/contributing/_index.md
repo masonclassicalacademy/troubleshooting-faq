@@ -1,9 +1,13 @@
 ---
-title: MCA Troubleshooting and FAQ Guide
-toc: false
+title: Contributing
+toc: true
 ---
 
-Home to troubleshooting and FAQ for Mason Classical Academy IT department.
+## Adding Documentation To This Site
+Contribution Information to troubleshooting and FAQ for Mason Classical Academy IT department. If interested in contributing new documentation, please review this information in the contributing section to learn how to use.
+
+When contributing, create a new branch locally, submit changes and then push to the repository for consideration.
+
 
 ## Explore
 
@@ -15,6 +19,9 @@ Home to troubleshooting and FAQ for Mason Classical Academy IT department.
 ## Documentation
 
 This site is meant to be an assist to our daily operations and troubleshooting that we perform. In addition, if there are tasks, i.e., upgrading servers or configuring out networks, setup of a new campus, etc., this will be a place to document things that really aren't manual-related information. This way, if people are out, new, or unreachable, we have a common starting point to give outsiders and new people alike a fighting chance at keeping our schools operational, from an IT perspective.
+
+To learn about the site setup, configuration, and maintenance please checkout the contriubting section.
+
 
 ## How Markdown Works
 This site is run by a markup language called, Markdown. This is a brief overview of how the markup language works for this site. Feel free to Google for more thorough documentaiton.

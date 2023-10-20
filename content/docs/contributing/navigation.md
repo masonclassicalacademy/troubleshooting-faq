@@ -1,5 +1,5 @@
 ---
-title: Documentation Configuration
+title: Navigation
 next: first-page
 ---
 
