@@ -39,3 +39,9 @@ We can use Ninite to download the following items and have them installed on the
 - [ ] Setup default HTML files open with Google Chrome
 - [ ] Remove the Edge browser desktop shorcut and Menu shortcut
 
+### Other Items
+* Each teacher gets a laptop with a profile that must be signed into the domain to get their own profile.
+* User must be added to the domain as staff/teacher
+* Serial number entered in fortiutus by admin of fortiutus
+* Laptop issued to teacher and have them login and change 1x password, setup profiles, explain how we use google drive, etc.
+
