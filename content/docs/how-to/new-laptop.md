@@ -7,7 +7,7 @@ prev: docs/how-to/
 
 ## Computer Build Checklist
 
-- [ ] Admin local and domain passwords (Masonadmin, Mason2o14)
+- [ ] Admin local and domain passwords are located in our ([IT Manual](https://docs.google.com/document/d/1FTnrAtKRgohreLQcMQWQcB9kovXHajtX/edit)
 - [ ] Uninstall McAfee, other bloatware as needed
 - [ ] Can keep Office 365. Comes with our MS license
 - [ ] Chrome – set as default
