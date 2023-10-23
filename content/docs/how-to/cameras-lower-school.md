@@ -25,7 +25,7 @@ To reset camera, press and hold control button for 15 seconds while powering on 
 ## Orchid
 
  Servers: 
- * MCACAM1   `10.10.10.19`	`192.168.1.254`
+* MCACAM1   `10.10.10.19`	`192.168.1.254`
 * MCACAM2 `10.10.10.9`		`192.168.1.253`
 * MCACAM3 `10.10.10.18`		`192.168.1.252`
 
