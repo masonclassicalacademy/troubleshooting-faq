@@ -10,7 +10,7 @@ The following section will have common questions and answers that are not covere
 
 ## FAQs
 
-**Q: Are students able to use their gmail accounts?**<br />?
+**Q: Are students able to use their gmail accounts?**<br />
 *A: Students only are access to their gmail in rare occasions and should be approved by Mr. Steer. The acceptable first answer is 'no'.*
 
 **Q: Who handles ordering new supplies?**<br />
