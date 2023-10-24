@@ -17,7 +17,9 @@ The charts below indicate the locations of our copiers at both campuses, and som
 |                  |          |              |                 |              |                   |             |         |       |
 
 ## Upper School
-| **North Campus** |          |              |                 |              |                   |             |         |       |
+
+| **South Campus** |          |              |                 |              |                   |             |         |       |
+|------------------|----------|:------------:|-----------------|--------------|-------------------|-------------|---------|-------|
 | LOCATION         | S/N      | MODEL        | STAPLE FUNCTION | B&W OR COLOR | PRINTNAME         | IP Address  | Staples | Toner |
 | Staff Room       | YFF03925 | iR-ADV 8705  | Yes             | BW           | HS Workroom BW    | 172.16.0.80 |    N1   |   37  |
 | Staff Room       | 2XD00537 | iR-ADV C5870 | Yes             | Color        | HS Workroom Color | 172.16.0.81 |    P1   |   61  |

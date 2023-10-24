@@ -11,7 +11,7 @@ Find the login information in our [IT Manual](https://docs.google.com/document/d
 ## Configuring cameras
 To configure each camera using `MCAIPCAM1`, run Axis IP Utility, then select the  camera to configure and login using information from [IT Manual](https://docs.google.com/document/d/1FTnrAtKRgohreLQcMQWQcB9kovXHajtX/edit#heading=h.5nez4csxsxs2).
 
-# Setup
+## Setup
 the default Axis camera IP is `192.168.0.90`.  Put a laptop on the `192.168.0.x` LAN to access camera and configure.
 
 	Subnet Mask:`255.255.255.0`
