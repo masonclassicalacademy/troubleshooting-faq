@@ -7,7 +7,7 @@ prev: docs/how-to/
 ## Lower School
 The charts below indicate the locations of our copiers at both campuses, and some important information about them.
 
-| **South Campus** |          |              |                 |              |                   |             |         |       |
+
 |------------------|----------|:------------:|-----------------|--------------|-------------------|-------------|---------|-------|
 | _LOCATION_       | S/N      | MODEL        | STAPLES         | BW OR COLOR  | PRINTNAME         | IP Address  | Staples | Toner |
 | Rm 121           | 2XD00521 | iR-ADV C5870 | Yes             | Color        | CopyRm-Color      | 10.10.10.75 |    P1   |   61  |
@@ -18,7 +18,7 @@ The charts below indicate the locations of our copiers at both campuses, and som
 
 ## Upper School
 
-| **South Campus** |          |              |                 |              |                   |             |         |       |
+|          |              |                 |              |                   |             |         |       |
 |------------------|----------|:------------:|-----------------|--------------|-------------------|-------------|---------|-------|
 | LOCATION         | S/N      | MODEL        | STAPLE FUNCTION | B&W OR COLOR | PRINTNAME         | IP Address  | Staples | Toner |
 | Staff Room       | YFF03925 | iR-ADV 8705  | Yes             | BW           | HS Workroom BW    | 172.16.0.80 |    N1   |   37  |

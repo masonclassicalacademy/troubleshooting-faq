@@ -2,10 +2,15 @@
 
 🐣 We make use of this template called Hextra. Information on getting started with [Hextra](https://github.com/imfing/hextra)
 
-![hextra-template](https://github.com/imfing/hextra-starter-template/assets/5097752/c403b9a9-a76c-47a6-8466-513d772ef0b7)
+Here is a [link to the guide here on github](https://masonclassicalacademy.github.io/troubleshooting-faq/docs/troubleshooting/)
+
+##
+
 
 
 ## Preview the site locally 
+if hugo server is installed on your local machine, and you want to test changes out there first, you can use the following command to build a local server on your laptop. On the command line-
+
 $ hugo server --buildDrafts --disableFastRender
 
 Voila! You can see your new site at http://localhost:1313/.

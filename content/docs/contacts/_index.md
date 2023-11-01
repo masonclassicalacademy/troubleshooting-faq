@@ -10,6 +10,13 @@ The following section will have information regarding common contacts and vendor
 To determine user information and account numbers, or anything reserved to our IT team, please consult our [IT Manual](https://docs.google.com/document/d/1FTnrAtKRgohreLQcMQWQcB9kovXHajtX/edit).
 
 
+
+## Our Team
+Fedor Steer
+Ryan Alberti
+Greg Abbott
+
+
 ## Vendors
 
 ### Apple
