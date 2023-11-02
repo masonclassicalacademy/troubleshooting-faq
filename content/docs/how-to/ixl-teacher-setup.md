@@ -1,3 +1,10 @@
+---
+title: ixl-teacher-setup
+type: docs
+prev: docs/how-to/
+---
+
+
 ## Background
 IXL is a vendor-based testing solution teachers use at Mason to help students prepare and get extra exercise in academics.
 

@@ -1,3 +1,8 @@
+---
+title: Lower School Cameras
+type: docs
+prev: docs/how-to/
+---
 
 
 ## Hardware

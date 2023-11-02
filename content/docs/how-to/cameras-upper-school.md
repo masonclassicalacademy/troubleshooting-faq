@@ -1,3 +1,10 @@
+---
+title: Upper School Security Cameras
+type: docs
+prev: docs/how-to/
+---
+
+
 ## Background
 Security cameras are through Johnson Controls
 * Access cameras at `172.16.0.3`

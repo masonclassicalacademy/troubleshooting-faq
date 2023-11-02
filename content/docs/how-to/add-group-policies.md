@@ -1,3 +1,10 @@
+---
+title: Add Group Policies
+type: docs
+prev: docs/how-to/
+---
+
+
 ## Background
 Our group policies are located on our Domain Controller
 

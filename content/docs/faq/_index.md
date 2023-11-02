@@ -34,3 +34,5 @@ The following section will have common questions and answers that are not covere
 * *Add accountability within the team for work*
 * *Provide better team communication and coordination*
 * *Get past blocks, issues, and challenges as a team*
+
+**Q: What email groups do we have at mason.

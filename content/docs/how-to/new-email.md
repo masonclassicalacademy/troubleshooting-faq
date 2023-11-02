@@ -31,9 +31,9 @@ Also, before it’ll work, you have to log into Gmail in the web browser and go 
 Then back in Gmail, click on the gear at top right, then See all settings > Forwarding and POP/IMAP and enable IMAP.
 
 
-# Forwarding CCPS Email
+## Forwarding CCPS Email
 In order to forward CCPS email to your `.masonacademy.com` account, you need to setup email forwarding:
-* Login to your CCPS account online: https://aaa.collierschools.com/logon/LogonPoint/tmindex.html
+* Login to the [CCPS outlook web access app](https://webmail.collierschools.com/owa/#path=/mail/inbox): 
 * Click on the gear > Options at the top right to go to settings.
 * In the left-hand column, under Mail, select “Inbox and sweep rules”
 * Click the + sign to add a rule.

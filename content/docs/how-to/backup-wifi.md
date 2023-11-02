@@ -1,3 +1,10 @@
+---
+title: Backup WiFi
+type: docs
+prev: docs/how-to/
+---
+
+
 ## Background
 We use Comcast as a backup internet service for our campuses. These are an additional/backup internet line, 50MBps.
 
