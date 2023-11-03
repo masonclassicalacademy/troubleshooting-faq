@@ -27,7 +27,7 @@ Paper Jams: open up the printer drawers and lids and carefully remove and visibl
 Toner cartridges are expensive.  Please try to use every last bit of toner in the cartridge.  Their life can sometimes be extended somewhat by removing the cartridge, giving it a few shakes, and putting it back in the printer.  If nothing more can be printed, please check the cabinets in the workroom for new toner cartridge.  These come in both color and black ink, so make sure you're aware which one is the issue.
 
 
-### "Hung" Documents
+### Stuck Documents
 Sometimes a document won’t print and will be “stuck” in the system somewhere.  Try double-clicking on the printer icon at the bottom right hand corner of your monitor to “See what’s printing”.  From here you can often delete a hung document.  If that doesn’t work, try turning your printer off and on again.  If that doesn’t work, turn your printer off again, reboot your computer, and then turn your printer on again.
 
 ### Status Errors
