@@ -12,9 +12,9 @@ To determine user information and account numbers, or anything reserved to our I
 
 
 ## Our Team
-Fedor Steer
-Ryan Alberti
-Greg Abbott
+Fedor Steer<br />
+Ryan Alberti<br />
+Greg Abbott<br />
 
 
 ## Vendors
@@ -45,8 +45,7 @@ K-12 Florida Account Manager | CDW-G
 Direct: 312.705.4090 | Fax: 312.752.3892
 [http://cdwg.com ](http://cdwg.com/)
 
-*Contact Person:  Evan Bleeker,	evanble@cdw.com,	312-547-2369 <br />
-
+* *Contact*:  Evan Bleeker,	evanble@cdw.com,	312-547-2369
 
 ### A/V
 * *Vendor*: Lightworks Stage Productions
@@ -104,8 +103,6 @@ Hardwired Fax – Also See CenturyLink
 ### IXL
 * *Contact*: Molly Henderson,	molyh@ixl.com,	984-229-9419
 Molly Henderson	molyh@ixl.com	984-229-9419
-
- 
 
 ### Microsoft
 Microsoft Licensing is managed through CDW (See also CDW)

@@ -4,9 +4,9 @@ type: about
 ---
 
 ### Team members
-Mr. Fedor Steer
-Mr. Ryan Alberti
-Mr. Greg Abbott
+Mr. Fedor Steer<br />
+Mr. Ryan Alberti<br />
+Mr. Greg Abbott<br />
 
 
 
