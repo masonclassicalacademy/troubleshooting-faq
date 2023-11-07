@@ -25,5 +25,6 @@ Most of the site pages are listed on the left-nav "Extra Sections". There is gen
 - [Facilities schedule](https://admin.masonclassicalacademy.org/apps/facilities/admin/index.jsp). This allows users to see what events are taking place within MCA.
   - We also store the campus carts of chromebooks in this section. We have them labeled like:
     - NC - Cart#03 (2nd Floor Lobby). This stands for North Campus. There is a reservations section to the facilities page that allows teachers to reserve carts for their students.
+- The handbooks for employees and students are also stored on the website (with their yearly updates)
 
 
